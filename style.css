@@ -100,3 +100,9 @@ html {
     clear: both;
     display: table;
 }
+
+.img-content2 {
+    padding-left: 55px;
+    width: 90%;
+    height: 83%;
+}
